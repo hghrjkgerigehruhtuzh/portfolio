@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jaini+Purva&display=swap');
+body{font-family: "Jaini Purva", system-ui !important;
+    font-weight: 400 !important;
+    font-style: normal !important; background-color: darkgreen !important;}
+    nav{background-color: chartreuse; height: 80px; letter-spacing: 15px;     align-items: center; font-size: 50px;
+        word-spacing: 150px;}
+   
+    .ball{float: left;}
+    .jobb{float: right;}
+    .kep{height: 70px;}
