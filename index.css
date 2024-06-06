@@ -9,3 +9,5 @@ body{font-family: "Jaini Purva", system-ui !important;
     .ball{float: left;}
     .jobb{float: right;}
     .kep{height: 70px;}
+    a{font-size: 50px;}
+    .kepp{margin: 20px 50px 100px 20px; height: 500px;}
